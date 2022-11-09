@@ -1,7 +1,7 @@
 import numpy as np
 
 def random_predict(number: int=1)->int:
-    """рандомно угадываем число
+    """рандомно угадываем числоj
 
     Args:
         number (int, optional): загаданное число. Defaults to 1.
