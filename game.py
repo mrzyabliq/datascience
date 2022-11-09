@@ -10,3 +10,4 @@ def random_predict(number: int=1)->int:
         int: Число попыток
     """
     
+    
